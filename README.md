@@ -21,7 +21,7 @@ Object detection is a key task in computer vision that involves identifying and 
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 * Python 3.x
 * OpenCV (cv2)
@@ -32,7 +32,7 @@ Object detection is a key task in computer vision that involves identifying and 
 
 ---
 
-## ⚙️ Installation Steps
+##  Installation Steps
 
 ### 1. Clone the Repository
 

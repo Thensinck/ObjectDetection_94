@@ -130,7 +130,7 @@ The system successfully detects multiple objects such as cars, dogs, persons, et
 
 ---
 
-## 📚 References
+##  References
 
 * https://docs.ultralytics.com/
 * https://opencv.org/
@@ -138,7 +138,7 @@ The system successfully detects multiple objects such as cars, dogs, persons, et
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Name:** Thensin CK
 **Project:** Object Detection System

@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Execution Procedure
+##  Execution Procedure
 
 ### Step 1: Run the program
 
@@ -95,7 +95,7 @@ result.jpg
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 * Load YOLOv8 pre-trained model
 * Read input image using OpenCV

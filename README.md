@@ -93,6 +93,15 @@ result.jpg
 
 ## Output Screenshots
 
+### Dog Detection
+![Dog](screenshots/dog.jpg)
+
+### Cat Detection
+![Cat](screenshots/cat.jpg)
+
+### Person Detection
+![Person](screenshots/person.jpg)
+
 ### Input Image
 
 (Add your input image screenshot here)

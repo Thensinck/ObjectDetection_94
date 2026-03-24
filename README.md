@@ -5,7 +5,7 @@
 Object Detection System using YOLOv8 and Python
 
 ---
-
+## Updated project documentation
 ##  Problem Statement
 
 Object detection is a key task in computer vision that involves identifying and locating objects within an image. The objective of this project is to develop a system capable of detecting multiple objects in an image and drawing bounding boxes around them using deep learning techniques.
@@ -87,7 +87,7 @@ result.jpg
 
 ---
 
-## 📸 Output Screenshots
+## Output Screenshots
 
 ### Input Image
 
@@ -110,7 +110,7 @@ result.jpg
 
 ---
 
-## ⚠️ Challenges Faced
+## Challenges Faced
 
 * Handling file path issues in Linux (WSL)
 * Managing large files in GitHub
@@ -119,13 +119,13 @@ result.jpg
 
 ---
 
-## ✅ Results
+## Results
 
 The system successfully detects multiple objects such as cars, dogs, persons, etc., with good accuracy and saves the output image with bounding boxes.
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 * Real-time object detection using webcam
 * Video-based object detection

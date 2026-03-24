@@ -1,0 +1,13 @@
+# model files
+*.pt
+
+# images
+*.jpg
+*.png
+
+# videos
+*.mp4
+
+# python env
+myenv/
+__pycache__/

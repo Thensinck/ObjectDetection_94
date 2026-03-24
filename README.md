@@ -1,4 +1,4 @@
-#  Object Detection System using YOLOv8
+
 
 ##  Project Title
 
@@ -21,7 +21,11 @@ Object detection is a key task in computer vision that involves identifying and 
 
 ---
 
+<<<<<<< HEAD
 ## Tools & Technologies Used
+=======
+## ools & Technologies Used
+>>>>>>> c987d3e (editted contents)
 
 * Python 3.x
 * OpenCV (cv2)

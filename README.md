@@ -6,6 +6,10 @@ Object Detection System using YOLOv8 and Python
 
 ---
 ## Updated project documentation
+
+## Description
+This project implements object detection using YOLOv8 to identify and localize objects in images.
+
 ##  Problem Statement
 
 Object detection is a key task in computer vision that involves identifying and locating objects within an image. The objective of this project is to develop a system capable of detecting multiple objects in an image and drawing bounding boxes around them using deep learning techniques.
